@@ -9,7 +9,7 @@ Database is a simple database toolkit class.
 include '/path/to/Db.php';
 
 // Declare the class instance
-$db = new Db();
+$db = new Database();
 
 // Select a table
 $db->from('user');
