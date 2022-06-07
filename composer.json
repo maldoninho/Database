@@ -1,0 +1,17 @@
+{
+    "name": "maldoninho/database",
+    "type": "library",
+    "description": "SIMPLE CLASS TO USE DATABASE TOOLKIT",
+    "keywords": ["database", "db"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maldoninho",
+            "email": "maldoninho@live.co.uk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.2.8"
+    }
+}
